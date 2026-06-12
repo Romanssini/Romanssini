@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Romanssini/Romanssini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marcelo, an Electrical Engineer and Embedded Systems Developer from Brazil.
 
-Here are some ideas to get you started:
+Passionate about embedded Linux, STM32, DSP, IoT, and precision agriculture technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🔧 Embedded Systems  
+📡 IoT & Wireless Networks  
+📊 Digital Signal Processing (DSP)  
+🌱 Precision Agriculture  
+🐧 Embedded Linux  
+💻 C, C++, C#, Python  
+☕  Powered by coffee
+
+## Current Interests
+
+- Embedded Linux
+- STM32 Development
+- Precision Agriculture
+- Sensor Data Analysis
+- GPS Navigation Systems
+- Machine Learning for Embedded Devices
