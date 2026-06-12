@@ -4,7 +4,7 @@ I'm Marcelo, an Electrical Engineer and Embedded Systems Developer from Brazil.
 
 Passionate about embedded Linux, STM32, DSP, IoT, and precision agriculture technologies.
 
-## About Me
+# About Me
 
 🔧 Embedded Systems  
 📡 IoT & Wireless Networks  
@@ -14,7 +14,7 @@ Passionate about embedded Linux, STM32, DSP, IoT, and precision agriculture tech
 💻 C, C++, C#, Python  
 ☕  Powered by coffee
 
-## Current Interests
+# Current Interests
 
 - Embedded Linux
 - STM32 Development
