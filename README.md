@@ -1,44 +1,63 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=220&section=header&text=Marcelo%20Romanssini&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:000000&height=220&section=header&text=MISSION%20CONTROL%20%7C%20MARCELLO&fontSize=32&fontColor=ffffff)
 
-# 👋 Hi, I'm Marcelo
+# 🛰️ SYSTEM STATUS: ACTIVE
 
-> Electrical Engineer • Embedded Systems Developer 🇧🇷  
-> IoT • DSP • Precision Agriculture • Embedded Linux
-
----
-
-## ⚙️ Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT-00A67E?style=for-the-badge)
+> Electrical Engineer • Embedded Systems • IoT • DSP • Precision Agriculture
 
 ---
 
-## 🚀 What I'm Working On
+## 📡 TELEMETRY (REAL-TIME STATUS)
 
-- 🌱 Precision agriculture systems (GPS mapping & automation)
-- 📡 IoT sensor networks (ESP32 / STM32)
-- 📊 DSP for vibration & signal processing
-- 🐧 Embedded Linux systems
-- 🤖 Edge AI for embedded devices
+🟢 Embedded Systems .......... ONLINE  
+🟢 IoT Networks .............. ACTIVE  
+🟡 DSP Processing ............ RUNNING  
+🟢 Linux Systems ............. STABLE  
+🟡 Edge AI .................... EXPERIMENTAL  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 CORE SYSTEMS
+
+### ⚙️ Engineering Modules
+- STM32 Firmware Development
+- ESP32 IoT Systems
+- Embedded C/C++ Architecture
+
+### 📊 Signal Intelligence
+- Vibration analysis (FFT / DFT)
+- Sensor fusion systems
+- Real-time data processing
+
+### 🌱 Field Systems
+- Precision agriculture navigation
+- GPS mapping systems
+- Agricultural automation
+
+---
+
+## 🚀 MISSION OBJECTIVES
+
+- 🌾 Autonomous agriculture navigation system
+- 📡 Scalable IoT sensor networks
+- 📊 Advanced DSP for machine monitoring
+- 🐧 Embedded Linux deployment systems
+- 🤖 Edge AI on microcontrollers
+
+---
+
+## 📊 SYSTEM ANALYTICS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romanssini&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanssini&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanssini&layout=compact&theme=tokyonight)
 
 ---
 
-## ☕ Fun Fact
+## ☕ POWER SOURCE
 
-Coffee-powered development mode: **always ON**.
+> Coffee level: ████████████ 100%  
+> Sleep level: █░░░░░░░░░░░ 12%
+
+---
+
+## 📡 FOOTER SIGNAL
