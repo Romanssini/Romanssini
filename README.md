@@ -31,7 +31,7 @@
 - 🤖 Edge AI for embedded devices
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romanssini&show_icons=true&theme=tokyonight)
@@ -39,7 +39,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romanssini&layout=compact&theme=tokyonight)
 
 ---
-
+-->
 ## ☕ Fun Fact
 
 Coffee-powered development mode: **always ON**.
